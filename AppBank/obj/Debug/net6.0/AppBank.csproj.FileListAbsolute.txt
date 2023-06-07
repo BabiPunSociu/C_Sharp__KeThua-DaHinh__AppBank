@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\bin\Debug\net6.0\AppBank.exe
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\bin\Debug\net6.0\AppBank.deps.json
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\bin\Debug\net6.0\AppBank.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\bin\Debug\net6.0\AppBank.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\bin\Debug\net6.0\AppBank.pdb
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\refint\AppBank.dll
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.pdb
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\AppBank.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\Kế Thừa & Đa Hình\AppBank\AppBank\obj\Debug\net6.0\ref\AppBank.dll
